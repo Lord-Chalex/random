@@ -1,1 +1,0 @@
-def recherche_motif
